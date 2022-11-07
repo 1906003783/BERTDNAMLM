@@ -1,0 +1,9 @@
+*.pyc
+cache*
+dna_cache*
+*.csv
+*.bak
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+*.bin
